@@ -6,7 +6,6 @@ Pipex is a project that mimics the behavior of the shell pipeline (`|`). It allo
 ## Features
 - Execute shell commands in sequence with piped input/output.
 - Handle multiple commands as input.
-- Support for various standard library functions including `open`, `close`, `read`, `write`, `malloc`, `free`, `perror`, `strerror`, `access`, `dup`, `dup2`, `execve`, `exit`, `fork`, `pipe`, `unlink`, `wait`, `waitpid`.
 - Custom error handling to ensure the program does not quit unexpectedly.
 - Memory management to prevent leaks.
 
