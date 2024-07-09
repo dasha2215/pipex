@@ -1,0 +1,2 @@
+# pipex
+Shell pipeline (`|`)
